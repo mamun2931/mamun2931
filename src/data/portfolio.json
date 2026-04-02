@@ -1,0 +1,84 @@
+{
+  "navbar": {
+    "logo": "<Dev/>",
+    "links": [
+      { "name": "Home", "href": "#home" },
+      { "name": "Skills", "href": "#skills" },
+      { "name": "Projects", "href": "#projects" }
+    ],
+    "cta": { "name": "Let's Talk", "href": "#contact" }
+  },
+  "hero": {
+    "greeting": "Hello there! 👋 I am",
+    "title": "Frontend",
+    "subtitle": "Developer",
+    "phrases": ["Modern Web Apps", "Interactive UIs", "Sleek Designs"],
+    "description": "Passionate about crafting beautiful, interactive, and high-performance user interfaces. Let's create something amazing together.",
+    "buttons": [
+      { "text": "View Work", "href": "#projects", "primary": true, "outline": false },
+      { "text": "Contact Me", "href": "#contact", "primary": false, "outline": true }
+    ],
+    "socials": [
+      { "platform": "github", "url": "https://github.com/mamun2931" },
+      { "platform": "linkedin", "url": "https://www.linkedin.com/in/mamun2931" },
+      { "platform": "twitter", "url": "https://x.com/mamun2931" }
+    ]
+  },
+  "skills": {
+    "titlePrefix": "My",
+    "titleHighlight": "Skills",
+    "subtitle": "Tools and technologies I use to bring ideas to life.",
+    "items": [
+      { "id": "react", "name": "React", "desc": "Frontend Library", "color": "#61DAFB" },
+      { "id": "javascript", "name": "JavaScript", "desc": "ES6+", "color": "#F7DF1E" },
+      { "id": "tailwind", "name": "Tailwind CSS", "desc": "Styling", "color": "#38B2AC" },
+      { "id": "html", "name": "HTML5", "desc": "Structure", "color": "#E34F26" },
+      { "id": "nodejs", "name": "Node.js", "desc": "Backend", "color": "#339933" },
+      { "id": "css", "name": "CSS3", "desc": "Design", "color": "#1572B6" },
+      { "id": "figma", "name": "Figma", "desc": "UI/UX", "color": "#F24E1E" },
+      { "id": "daisyui", "name": "DaisyUI", "desc": "Components", "color": null }
+    ]
+  },
+  "projects": {
+    "titlePrefix": "Featured",
+    "titleHighlight": "Projects",
+    "subtitle": "Some of my recent work",
+    "items": [
+      {
+        "id": 1,
+        "title": "NexShop Dashboard",
+        "description": "A premium e-commerce dashboard featuring real-time analytics, user management, and seamless dark mode support.",
+        "image": "/assets/images/project1.png",
+        "tags": [
+          { "name": "React", "color": "primary" },
+          { "name": "Tailwind", "color": "secondary" },
+          { "name": "DaisyUI", "color": "accent" }
+        ],
+        "demoLink": "#",
+        "codeLink": "#"
+      },
+      {
+        "id": 2,
+        "title": "VibeStream Social",
+        "description": "A highly interactive social media feed app with smooth micro-animations, real-time updates, and a sleek mobile-first UI.",
+        "image": "/assets/images/project2.png",
+        "tags": [
+          { "name": "React", "color": "primary" },
+          { "name": "Firebase", "color": "info" },
+          { "name": "Zustand", "color": "secondary" }
+        ],
+        "demoLink": "#",
+        "codeLink": "#"
+      }
+    ]
+  },
+  "contact": {
+    "titlePrefix": "Let's Work",
+    "titleHighlight": "Together",
+    "subtitle": "Have a project in mind? Send me a message!",
+    "formspreeEndpoint": "https://formspree.io/f/mlgowgjn"
+  },
+  "footer": {
+    "copyright": "Copyright © 2026 - All right reserved by Dev Portfolio made with React & DaisyUI"
+  }
+}
