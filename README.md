@@ -1,17 +1,15 @@
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+ <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<br>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer...;Building+Modern+Web+Apps...;Passionate+about+UI%2FUX...&font=Space+Grotesk&center=true&width=500&height=50&color=8B5CF6&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer...&font=Space+Grotesk&center=true&width=500&height=50&color=8B5CF6&vCenter=true&size=48" alt="Typing SVG" />
 
-  <h1>🎇 Modern Developer Portfolio 🎇</h1>
+  <h1 align="center" class="text-gradient font-display text-4xl font-bold animate-pulse" style="color: #8B5CF6;">🎇 morden protfolio website 🎇</h1>
 
-   ## [frontend-frotfolio.netlify.app](https://frontend-frotfolio.netlify.app)
-  <p align="center">
-    <a href="https://github.com/mamun2931/portfolio">
-      <img alt="GitHub stars" src="https://img.shields.io/github/stars/mamun2931/portfolio?style=social&label=Star%20this%20Project">
-    </a>
-  </p>
+   ## [Click Live Link](https://frontend-frotfolio.netlify.app)
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
 
- 
